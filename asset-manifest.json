@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bhavin-react-app/static/css/main.4064664c.chunk.css",
+    "main.js": "/bhavin-react-app/static/js/main.2e140057.chunk.js",
+    "main.js.map": "/bhavin-react-app/static/js/main.2e140057.chunk.js.map",
+    "runtime-main.js": "/bhavin-react-app/static/js/runtime-main.27065960.js",
+    "runtime-main.js.map": "/bhavin-react-app/static/js/runtime-main.27065960.js.map",
+    "static/js/2.46db9de8.chunk.js": "/bhavin-react-app/static/js/2.46db9de8.chunk.js",
+    "static/js/2.46db9de8.chunk.js.map": "/bhavin-react-app/static/js/2.46db9de8.chunk.js.map",
+    "index.html": "/bhavin-react-app/index.html",
+    "static/css/main.4064664c.chunk.css.map": "/bhavin-react-app/static/css/main.4064664c.chunk.css.map",
+    "static/js/2.46db9de8.chunk.js.LICENSE.txt": "/bhavin-react-app/static/js/2.46db9de8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27065960.js",
+    "static/js/2.46db9de8.chunk.js",
+    "static/css/main.4064664c.chunk.css",
+    "static/js/main.2e140057.chunk.js"
+  ]
+}
